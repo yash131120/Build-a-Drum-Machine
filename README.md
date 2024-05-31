@@ -6,6 +6,9 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 
 <br/>
 Final Project URL: https://codepen.io/htndwtth-the-scripter/pen/pomRMqM
+<br/>
+<br/>
+<br/>
 
 ![image](https://github.com/yash131120/Build-a-Drum-Machine/assets/139432375/c529f741-d3ec-45c7-a871-4da973441d1d)
 <br/>
