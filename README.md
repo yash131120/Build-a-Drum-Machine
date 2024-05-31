@@ -2,10 +2,8 @@
 
 # Build a Drum Machine
 
-Objective: Build a CodePen.io app that is functionally similar to this: https://github.com/yash131120/random-quote-machine
-
-Final Project URL: https://codepen.io/htndwtth-the-scripter/pen/PovWOqZ
-
+Objective: Build a CodePen.io app that is functionally similar to this: https://github.com/yash131120/Build-a-Drum-Machine/
+Final Project URL: https://codepen.io/htndwtth-the-scripter/pen/pomRMqM
 
 ![image](https://github.com/yash131120/Build-a-Drum-Machine/assets/139432375/c529f741-d3ec-45c7-a871-4da973441d1d)
 <br/>
